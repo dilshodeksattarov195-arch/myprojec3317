@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsrocess",
+        "uuid": 6056842,
+        "checksum": "hz0fq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
